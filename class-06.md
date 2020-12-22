@@ -26,5 +26,5 @@ The risk associated with an application or piece of software can be summed up in
 after that it's the devil in the details, when developing software, being cognizant of these things and taking pre-cautions to minimize the damage of failure in its design from the beginning, can save everyone stress/time/money. some risks are unavoidable but being aware of them can help form a plan to deal with them and minimize the impact. 
 
 
-- `randint()
+[Return to Main index of Notes](./README.md)
 
