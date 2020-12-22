@@ -7,3 +7,5 @@ The purpose of this repo is to serve as a point of reflection as well as a futur
 ## Python Notes Index
 
 - [Big O and and Introduction to Python](./class-01.md)
+- [Read Write and Except](./class-03.md)
+- [Classes Objects and Recursion](./class-04.md)
