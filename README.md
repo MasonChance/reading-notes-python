@@ -10,3 +10,4 @@ The purpose of this repo is to serve as a point of reflection as well as a futur
 - [Read Write and Except](./class-03.md)
 - [Classes Objects and Recursion](./class-04.md)
 - [Random module and Risk-Assesment](./class-06.md)
+- [Scope and LEGB](class-07.md)
