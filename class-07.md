@@ -16,11 +16,4 @@ Time to make all of our analogies complete by going back to library. Python foll
 
 
 
-
-
-
-
-
-
-
 #### [Return to Main index of Notes](./README.md)
