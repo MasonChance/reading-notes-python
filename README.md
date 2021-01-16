@@ -12,3 +12,4 @@ The purpose of this repo is to serve as a point of reflection as well as a futur
 - [Random module and Risk-Assesment](./class-06.md)
 - [Scope and LEGB](class-07.md)
 - [Stacks and Queues](class-10.md)
+- [NumPy and Jupyter](class-11.md)
