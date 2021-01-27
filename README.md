@@ -14,3 +14,4 @@ The purpose of this repo is to serve as a point of reflection as well as a futur
 - [Stacks and Queues](class-10.md)
 - [NumPy and Jupyter](class-11.md)
 - [Pandas](class-12.md)
+- [Matplotlib, pyplot, data visualization](class-14.md)
