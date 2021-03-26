@@ -17,3 +17,4 @@ The purpose of this repo is to serve as a point of reflection as well as a futur
 - [Matplotlib, pyplot, data visualization](class-14.md)
 - [Scraping and Beautiful soup](class-17.md)
 - [Regex and automation](class-19.md)
+- [Django settings and SSH](class-34.md)
